@@ -140,16 +140,16 @@ HIỆN TẠI — ~4–6 giờ/môn trước khi thực sự học
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Pitch card phòng trọ; nộp thêm card hạn nộp và ôn thi | Card hạn nộp được gộp với card của Vỹ thành candidate chính; card phòng trọ đứng thứ 2 |
+| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: _(cần bổ sung)_ | _(cần bổ sung)_ |
+| Nhận phản biện | Câu hỏi tôi nhận được: bottleneck là đọc bài đăng hay xác minh độ tin cậy? (AI, CP2) | Tôi đã sửa gì: thu hẹp actor, ghi rõ số liệu là ước tính, thêm "đánh dấu bài đáng ngờ" |
+| Gom cluster / cây OST | Xếp card hạn nộp vào cluster A, card phòng trọ và ôn thi vào cluster B | Tải của lớp trưởng (15–30 phút/ngày) thành Opportunity C |
+| Chọn candidate problem | Đồng ý chọn hạn nộp; xếp phòng trọ sau vì chỉ nặng theo mùa | Chốt candidate hạn nộp (32 điểm) |
+| Kiểm chứng / research | Nêu nghi vấn "LMS hoặc file chung có thể đã đủ" | Thành giả định #3 và bước kiểm LMS thật trong mục Not Yet |
+| Quy trình nhóm | Cung cấp ước lượng: 5–10 phút/lần lục tin, 15–30 phút/ngày của lớp trưởng | Dùng cho bước 4 và 6 của quy trình hiện tại |
+| Problem Statement | Cung cấp dấu hiệu khoảng 10 câu hỏi lặp lại/tuần | v1 thêm lớp trưởng làm actor phụ và metric câu hỏi lặp lại |
+| Mức can thiệp AI | Đề xuất No AI / Rule từ CP2 (sheet ghim, nhắc lịch Zalo) | Khớp mức chọn No AI + Rule |
+| Quyết định | Đồng ý Not Yet vì chưa kiểm chứng với người ngoài nhóm | Card phòng trọ là phương án quay về nếu kiểm chứng thất bại |
 
 ---
 
@@ -157,12 +157,12 @@ HIỆN TẠI — ~4–6 giờ/môn trước khi thực sự học
 
 | Checkpoint | Tôi dùng AI để làm gì? | AI hữu ích ở đâu? | AI sai hoặc hời hợt ở đâu? | Tôi sửa gì bằng nhận định của mình? |
 |---|---|---|---|---|
-| CP1 Scan | | | | |
-| CP2 Problem Card | | | | |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP1 Scan | Gợi ý thêm ý | Thêm được ý có dấu hiệu thật (#2, #5, #7) | Ý quá rộng; ý viết dạng "cần app/AI" | Bỏ ý rộng; viết lại thành Job Story |
+| CP2 Problem Card | Phản biện card | Chỉ ra actor rộng, số liệu chưa kiểm chứng | Cho rằng bottleneck là xác minh độ tin cậy | Thu hẹp actor; chỉ đồng ý một phần về bottleneck |
+| CP4 Research | Tìm công cụ có sẵn | Ra nhanh danh sách: Classroom, Zalo, Gemini, Zapier | Nguồn cũ; Gemini chỉ hỗ trợ tiếng Anh | Kiểm từng link; ghi rõ hạn chế |
+| CP5 Quy trình | Dựng sơ đồ trước/sau | Trình bày rõ actor, input, output | Số phút "sau" chỉ là kỳ vọng; bỏ qua tải của người phụ trách | Ghi rõ là ước lượng; thêm rủi ro và phương án quay về |
+| CP5–6 Problem Statement | Rà soát v0 → v1 | Chỉ ra gốc là thiếu nơi chốt thông tin | Metric chỉ đo thời gian | Thêm metric nộp trễ, câu hỏi lặp lại |
+| CP6 Mức can thiệp / quyết định | So sánh 4 mức can thiệp | Ma trận cho thấy bài ở ô thấp × thấp | Nghiêng về AI trích hạn khi chưa có bằng chứng | Chọn No AI + Rule; Not Yet |
 
 ---
 
@@ -171,21 +171,27 @@ HIỆN TẠI — ~4–6 giờ/môn trước khi thực sự học
 Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ cho các câu 6.1–6.6 (không tính 6.7, câu này được chấm riêng ở tiêu chí C5). **Không dùng AI để viết thay.**
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
-
+Problems của top 3 thực tế và ứng dụng AI khả thi với tình huống thực tiễn.
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
-
+có, nhóm định làm AI trích hạn, sau thấy bảng ghim là đủ
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
-
+Không đổi ý. 
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
-
+ko bất ngờ lắm, chỉ hơi bất ngờ vì LMS ko hiện đính chính trên chat
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
-
+khó nhất là số liệu toàn ước lượng
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
-
+sẽ đi phỏng vấn sớm hơn
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- Báo cáo nhóm: [report/team/group_report.md](../team/group_report.md).
+- Báo cáo cá nhân của các thành viên khác trong [report/individual/](./).
+- Hướng dẫn và framework của lab: [docs/01-worksheet.md](../../docs/01-worksheet.md).
+- Google Classroom Help, *View due dates and events in a calendar*: https://support.google.com/edu/classroom/answer/6272985
+- Quản Trị Mạng, *Cách tạo nhắc hẹn, kỷ niệm nhóm trên Zalo* (2021): https://quantrimang.com/cong-nghe/cach-tao-lich-hen-tren-nhom-chat-zalo-pc-156529
+- Google Workspace Updates, *Quickly add events to Google Calendar based on your emails with Gemini in Gmail* (03/2025): https://workspaceupdates.googleblog.com/2025/03/add-events-to-google-calendar-using-gemini-in-gmail.html
+- Zapier, *Extract due dates from Gmail, analyze with AI, run code, and create Google Calendar reminders*: https://zapier.com/templates/details/34f7f11d27aa22bcd0b5e4207c4537d2d59e0c4451dd56dfc3a4199c482ba2d8
