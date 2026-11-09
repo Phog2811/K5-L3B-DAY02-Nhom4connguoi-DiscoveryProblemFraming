@@ -193,14 +193,20 @@ Nếu làm lại, tôi sẽ thúc đẩy nhóm tiến hành phỏng vấn 3-5 b�
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 Bài toán của nhóm tập trung vào sự bất tiện của sinh viên học nhiều môn khi phải tra cứu hạn nộp bài rải rác trên các kênh chat, LMS và email. Quy trình hiện tại bị nghẽn (bottleneck) ở bước sinh viên phải cuộn tìm thông báo trong nhóm chat, gây tốn khoảng 8 phút mỗi lần và dễ dẫn đến bỏ sót thông tin đã đính chính. Nhóm đặt metric kỳ vọng là giảm thời gian tìm kiếm xuống dưới 5 phút, không còn sinh viên nộp trễ và giảm thiểu câu hỏi lặp lại trên group lớp. Boundary cốt lõi được đặt ra là AI không được phép tự động đăng hay sửa hạn nộp, mọi thông tin mâu thuẫn phải ưu tiên nguồn chính thức từ giảng viên. Vì bài toán có độ phức tạp thấp, nhóm quyết định chọn mức can thiệp là No AI kết hợp với Rule (sử dụng bảng ghim chung và nhắc hẹn tự động). Kết luận hiện tại là nhóm đưa ra quyết định "Not Yet", yêu cầu phải kiểm chứng thực tế và chạy pilot phương án bảng thủ công trước khi cân nhắc áp dụng AI.
+
 ---
 
 ## 7. Tài liệu tham khảo
-Báo cáo nhóm Nhom4connguoi — Day 02 Discovery & Problem Framing (File: group_report.md).   
-Hướng dẫn và framework của lab: docs/01-worksheet.md.   
-Google Classroom Help, View due dates and events in a calendar: https://support.google.com/edu/classroom/answer/6272985.   
+Báo cáo nhóm Nhom4connguoi — Day 02 Discovery & Problem Framing (File: group_report.md).
+
+Hướng dẫn và framework của lab: docs/01-worksheet.md. 
+
+Google Classroom Help, View due dates and events in a calendar: https://support.google.com/edu/classroom/answer/6272985. 
+
 Quản Trị Mạng, Cách tạo nhắc hẹn, kỷ niệm nhóm trên Zalo (2021): https://quantrimang.com/cong-nghe/cach-tao-lich-hen-tren-nhom-chat-zalo-pc-156529.   
+
 Google Workspace Updates, Quickly add events to Google Calendar based on your emails with Gemini in Gmail (03/2025): https://workspaceupdates.googleblog.com/2025/03/add-events-to-google-calendar-using-gemini-in-gmail.html.   
+
 Zapier, Extract due dates from Gmail, analyze with AI, run code, and create Google Calendar reminders: https://zapier.com/templates/details/34f7f11d27aa22bcd0b5e4207c4537d2d59e0c4451dd56dfc3a4199c482ba2d8.
 -
 
