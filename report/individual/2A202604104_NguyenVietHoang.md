@@ -125,24 +125,24 @@ Phát sinh khoản chi
 
 ### Card muốn pitch nhất
 
-- Card số:
-- Vì sao:
-- Câu hỏi muốn nhóm phản biện:
+- Card số: 1 
+- Vì sao: bản thân tôi đi đường hà nội rất vất vả và tình trạng chung của mọi người đều thế cho nên đây có lẽ là giải pháp cần thiết
+- Câu hỏi muốn nhóm phản biện: vậy giải pháp này có gì khác biệt so với google map?
 
 ### AI đã phản biện card thế nào
 
 | Điểm yếu AI chỉ ra | Đồng ý? | Đã sửa gì |
 |---|---|---|
-| | | |
+|Chưa đo được bottleneck mất bao lâu, và metric hiện là mục tiêu dự kiến chứ chưa có baseline. Cần làm rõ vấn đề là kẹt xe, chọn tuyến hay đi nơi chưa quen |Đồng ý |ghi lại thời gian dự kiến và thực tế của vài chuyến đi để xác định vấn đề chính, rồi dùng bản đồ hiện có để chọn giờ xuất phát phù hợp |
 
 ---
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
-|---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
+|thảo luận ứng dụng AI|Đưa ra 3 vấn đề và cách giải quyết và đóng góp vào đề tài cuối của nhóm|Đóng góp cho phần trình bày|
+| Pitch Problem Card |Tôi trình bày vấn đề chọn tuyến và ước lượng thời gian đi học; nhóm cần phản biện xem bottleneck nằm ở việc chọn tuyến hay dự đoán thời gian | |
+| Phản biện bài của bạn khác |Nếu có  | Câu hỏi tôi đã đặt: | |
 | Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
 | Gom cluster / cây OST | | |
 | Chọn candidate problem | | |
