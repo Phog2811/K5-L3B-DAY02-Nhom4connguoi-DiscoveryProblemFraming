@@ -4,7 +4,7 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: Nhom4connguoi
 - Candidate problem nhóm chọn (1 câu):
 - Quyết định cuối (Go / Not Yet / No-Go):
 
@@ -12,10 +12,10 @@
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-| 4 | | | | |
+| 1 |Đinh Hoàng Phong |2A202604090 |Nhóm Trưởng |Phog2811 |
+| 2 |Đỗ Hồng Vỹ |2A202604107 |thành viên |Do-Hong-Vy |
+| 3 |Nguyễn Việt Hoàng |2A202604104 |thành viên |viethoang126 |
+| 4 |Nguyễn Ánh Dương |2A202604087 |thành viên |nganhduong123 |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
