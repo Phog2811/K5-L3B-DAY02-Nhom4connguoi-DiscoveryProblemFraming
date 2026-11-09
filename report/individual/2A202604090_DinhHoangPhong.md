@@ -208,5 +208,6 @@ Quản Trị Mạng, Cách tạo nhắc hẹn, kỷ niệm nhóm trên Zalo (202
 Google Workspace Updates, Quickly add events to Google Calendar based on your emails with Gemini in Gmail (03/2025): https://workspaceupdates.googleblog.com/2025/03/add-events-to-google-calendar-using-gemini-in-gmail.html.   
 
 Zapier, Extract due dates from Gmail, analyze with AI, run code, and create Google Calendar reminders: https://zapier.com/templates/details/34f7f11d27aa22bcd0b5e4207c4537d2d59e0c4451dd56dfc3a4199c482ba2d8.
+
 -
 
