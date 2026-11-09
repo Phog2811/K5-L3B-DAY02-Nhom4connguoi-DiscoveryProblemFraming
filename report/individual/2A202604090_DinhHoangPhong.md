@@ -25,9 +25,7 @@ Lăng kính: **Lặp lại** · **Tốn thời gian** · **Cần đọc, tổng 
 | 3 |Pain từ người khác |Khi nộp đơn xin giấy tốt nghiệp sớm trên FAP, tôi muốn biết đơn đã đúng loại và đúng yêu cầu trước khi gửi, để không bị trả lại rồi phải chờ duyệt lại |Tôi và khoảng 10 bạn quen (ước chừng) |Bị trả 2 lần, mỗi lần chờ 2–3 ngày, tổng khoảng 6–9 ngày |
 | 4 |Tốn thời gian |Khi viết một chức năng trong sản phẩm của khách hàng, tôi muốn biết trước chức năng đó có làm hệ thống chậm hay không, để không phải sửa lại sau khi làm xong |Tôi, team lead, tester |Chậm 20%; làm lại 2 giờ/lần; 2 lần tuần vừa rồi (khoảng 4 giờ/tuần); team lead và tester phát hiện |
 | 5 |Lặp lại |Khi cần nộp đơn miễn điểm danh trên FAP, tôi muốn đơn được duyệt đúng ý ngay lần đầu, để không phải nộp lại nhiều lần |Tôi |Bị trả 2 lần, mỗi lần chờ 2–3 ngày, tổng khoảng 6 ngày |
-| 6 | | | | |
-| 7 | | | | |
-| 8 | | | | |
+
 
 **Nếu có dùng AI để gợi ý thêm:** ý nào AI gợi ý mà bạn giữ lại, ý nào bỏ và vì sao.
 
