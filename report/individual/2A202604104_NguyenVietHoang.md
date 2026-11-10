@@ -12,7 +12,7 @@
 - Tên nhóm: Nhóm 4 con người
 - Link repo nhóm:https://github.com/Phog2811/K5-L3B-DAY02-Nhom4connguoi-DiscoveryProblemFraming
 
----
+
 
 ## 2. Scan problem (CP1)
 
@@ -189,7 +189,7 @@ Khó nhất là xác định đúng vấn đề cốt lõi và giới hạn ph�
 Nếu làm lại, tôi sẽ thu thập bằng chứng sớm hơn thay vì chủ yếu dựa vào trải nghiệm cá nhân. Tôi cũng sẽ phản biện kỹ hơn về bottleneck, mức độ ảnh hưởng và tính cần thiết của AI
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 Bài toán nhóm hướng đến việc giải quyết một vấn đề thực tế của người dùng thông qua việc phân tích quy trình hiện tại. Trước tiên cần xác định actor và những khó khăn họ gặp phải trong từng bước. Sau đó xác định bottleneck và xây dựng metric để đánh giá hiệu quả. Tiếp theo cần giới hạn phạm vi bài toán để tránh giải quyết quá rộng. Nhóm sẽ đánh giá liệu vấn đề có thực sự cần AI hay chỉ cần rule-based hoặc workflow thông thường. Cuối cùng, lựa chọn giải pháp dựa trên bằng chứng, tính khả thi và giá trị thực tế mang lại
----
+
 
 ## 7. Tài liệu tham khảo
 
